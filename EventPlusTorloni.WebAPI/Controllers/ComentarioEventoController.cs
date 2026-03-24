@@ -109,6 +109,19 @@ public class ComentarioEventoController : ControllerBase
             return BadRequest(erro.Message);
         }
     }
+
+    [HttpGet("ListarSomenteExibe/{idEvento}")]
+    public IActionResult ListarSomenteExibe(Guid idEvento)
+    {
+        try
+        {
+            return Ok(_comentarioEventoRepository.ListarSomenteExibe(idEvento));
+        }
+        catch (Exception e)
+        {
+            return BadRequest(e.Message);
+        }
+    }
 }
 
 

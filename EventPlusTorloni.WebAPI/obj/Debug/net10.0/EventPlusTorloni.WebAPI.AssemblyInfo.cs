@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventPlusTorloni.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50bc9e927378d373b44da3b14e389beb64d33e4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52dd9377640fad5cadf6d5ab5cc34a183682ce36")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventPlusTorloni.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventPlusTorloni.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,7 +12,7 @@ using Azure.AI.ContentSafety;
 var builder = WebApplication.CreateBuilder(args);
 
 
-var endpoint = ";
+var endpoint = "";
 var apiKey = "";
 
 var client = new ContentSafetyClient(new Uri(endpoint), new Azure.AzureKeyCredential(apiKey));

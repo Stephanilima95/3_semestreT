@@ -50,4 +50,6 @@ public class ComentarioEventoRepository : IComentarioRepository
     {
         throw new NotImplementedException();
     }
+
+
 }
