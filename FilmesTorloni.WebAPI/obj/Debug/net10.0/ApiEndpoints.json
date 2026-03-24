@@ -211,7 +211,7 @@
   },
   {
     "ContainingType": "FilmesTorloni.WebAPI.Controllers.UsuarioController",
-    "Method": "Post",
+    "Method": "Cadastrar",
     "RelativePath": "api/Usuario",
     "HttpMethod": "POST",
     "IsController": true,

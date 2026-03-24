@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FtzKVKqAURI=",
+  "dgSpecHash": "QEsxiak8Oq4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\53280190835\\Desktop\\3SEMESTRE\\FilmesTorloni.WebAPI\\FilmesTorloni.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\53280190835\\Desktop\\3_semestreT\\FilmesTorloni.WebAPI\\FilmesTorloni.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\53280190835\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\53280190835\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

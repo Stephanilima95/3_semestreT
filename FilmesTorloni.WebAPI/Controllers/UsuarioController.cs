@@ -17,7 +17,7 @@ public class UsuarioController : ControllerBase
    
 
 [HttpPost]
-    public IActionResult Post(Usuario novoUsuario)
+    public IActionResult Cadastrar(Usuario novoUsuario)
     {
         try
         {
